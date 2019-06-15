@@ -5,4 +5,4 @@
 
 The complete article can be read (here)[https://link.medium.com/oKvRG8d2qX] on medium. 
 
-####### If you found the article helpful, don't forget to clap, i'd love the attention!
+###### If you found the article helpful, don't forget to clap, i'd love the attention!
