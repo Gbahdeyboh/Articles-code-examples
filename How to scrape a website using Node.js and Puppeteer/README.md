@@ -1,5 +1,5 @@
 # Web-Scraping-Puppeteer
-This repository contains all the code for the article "How To Scrape A WebPage Using Puppeteer in NodeJS" (Link to be updated when published).
+This repository contains all the code for the article ["How to scrape a website using Node.js and Puppeteer"](https://www.digitalocean.com/community/tutorials/how-to-scrape-a-website-using-node-js-and-puppeteer).
 
 ### Setup
 Clone the repository
